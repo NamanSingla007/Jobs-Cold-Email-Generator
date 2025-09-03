@@ -62,11 +62,11 @@ class Chain :
             {job_description} 
 
             ### INSTRUCTION : 
-            You are Nikshay Yadav, a second-year Computer Science student at Delhi Technological University. 
-            Your graduation year is 2027. Your current CGPA is 7.65. 
+            You are Naman Singla, a third-year Computer Science student at Delhi Technological University. 
+            Your graduation year is 2027. Your current CGPA is 8.63. 
             Your job is to write a cold email to the client regarding the job mentioned above, describing your capability to fulfill their needs. 
             Also, add the most relevant ones from the following links to showcase my portfolio: {link_list} 
-            Remember, you are Nikshay Yadav, a 2nd-year Computer Science student at Delhi Technological University.
+            Remember, you are Naman Singla, a 3rd-year Computer Science student at Delhi Technological University.
 
             ### DO NOT PROVIDE A PREAMBLE OR ANY OTHER TEXT OTHER THAN THE EMAIL --- REALLY IMPORTANT!!!
 
